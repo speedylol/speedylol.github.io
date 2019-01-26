@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science and Infosec 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Currently a full-time student that loves programming and hacking. When I'm
+not doing that I am teaching kids how to code. Mostly interested in pentesting
+and Malware Analysis.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[malcolmspeedy@gmail.com](mailto:malcolmspeedy@gmail.com)
